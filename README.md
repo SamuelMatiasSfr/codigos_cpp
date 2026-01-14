@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório de códigos em C++! Estes projetos foram desenvolvidos como atividades práticas da matéria Linguagem e Técnicas de Programação 1 no curso técnico de informática do CEFET-MG.
 
-## Requisitos:
+## ✔ Requisitos:
 - Compilador C: Um compilador compatível com C++11 ou superior
 - Eclipse IDE (ou outro IDE de sua preferência)
 
