@@ -6,7 +6,7 @@ Bem-vindo ao repositório de códigos em C++! Estes projetos foram desenvolvidos
 - Compilador C: Um compilador compatível com C++11 ou superior
 - Eclipse IDE (ou outro IDE de sua preferência)
 
-## ⚙️Configuração⚙️
+## ⚙️ Configuração
 
 Siga as etapas abaixo:
 
